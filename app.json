@@ -16,7 +16,7 @@
   ],
   "success_url": "https://t.me/All_URL_Uploader_Bot",
   "website": "https://github.com/kalanakt",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "repository": "https://github.com/fazanul/All-Url-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -36,7 +36,7 @@
     },
     "LOGS_CHANNEL": {
       "description": "id of log channel/group. leave this if you don't want to",
-      "value": "-1001718967421",
+      "value": "",
       "required": false
     },
     "OWNER_ID": {
